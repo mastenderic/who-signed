@@ -11,4 +11,9 @@ Python library for extracting and clustering signatures from pdfs
 
 
 
-Also http://stackoverflow.com/questions/8907267/is-there-any-code-or-algorithm-for-signature-recognition
+Also 
+
+* http://stackoverflow.com/questions/8907267/is-there-any-code-or-algorithm-for-signature-recognition
+* http://arxiv.org/ftp/arxiv/papers/1103/1103.3420.pdf
+* http://infoscience.epfl.ch/record/158760/files/Andrea%20Mazzei%20-%20Extraction%20and%20Classification%20of%20Handwritten%20Annotations.pdf
+
