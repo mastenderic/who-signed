@@ -10,3 +10,5 @@ Python library for extracting and clustering signatures from pdfs
 5. assing human labeled labels to pdfs
 
 
+
+Also http://stackoverflow.com/questions/8907267/is-there-any-code-or-algorithm-for-signature-recognition
